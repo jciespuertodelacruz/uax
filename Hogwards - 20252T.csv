@@ -1,0 +1,122 @@
+ID,Name,Descriptive Name,Description,Domain,Owner,IsCompliance,Status,Version,NumberUsers
+DP001,ProfeciaMonitor,Monitor de Pociones,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,True,Production,1.4.0,65
+DP002,CriaturaWatch,Sistema de Seguimiento de Hechizos,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,True,Production,2.7.0,100
+DP003,EstelarMap,Aplicacion de Transfiguraciones,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,False,Deprecated,0.4.1,38
+DP004,Transfigurator,Monitor de Pociones,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Production,3.0.0,100
+DP005,CriaturaWatch,Vigilante de Criaturas Magicas,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Production,2.3.7,76
+DP006,EstelarMap,Guardian de la Historia,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,True,Production,3.0.0,96
+DP007,TrackHechizo,Mapa Estelar,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,False,Deprecated,2.9.2,100
+DP008,ProfeciaMonitor,Mapa Estelar,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,True,Production,1.0.0,62
+DP009,HerboApp,Mapa Estelar,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Rubeus Hagrid,False,Production,2.3.7,90
+DP010,Transfigurator,Aplicacion de Transfiguraciones,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,False,Deprecated,0.6.2,43
+DP011,Transfigurator,Monitor de Profecias,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Alastor Moody,True,Production,0.3.9,100
+DP012,HerboApp,Vigilante de Criaturas Magicas,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,True,Production,1.0.0,100
+DP013,HerboApp,Aplicacion de Herbologia,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Horace Slughorn,False,Production,2.0.0,99
+DP014,CriaturaWatch,Monitor de Profecias,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,False,Deprecated,2.6.2,20
+DP015,ProfeciaMonitor,Monitor de Pociones,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Horace Slughorn,True,Production,1.0.0,100
+DP016,Transfigurator,Registro de Encantamientos,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Production,1.3.9,75
+DP017,HerboApp,Sistema de Seguimiento de Hechizos,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Firenze,False,Deprecated,0.2.4,58
+DP018,HistoriKeeper,Sistema de Seguimiento de Hechizos,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,False,Deprecated,2.5.2,100
+DP019,HerboApp,Monitor de Profecias,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Severus Snape,True,Production,1.0.0,93
+DP020,EstelarMap,Monitor de Profecias,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Production,1.0.0,100
+DP021,EstelarMap,Monitor de Pociones,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,True,Production,0.4.5,82
+DP022,TrackHechizo,Guardian de la Historia,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Wilhelmina Grubbly-Plank,False,Production,0.4.4,36
+DP023,ProfeciaMonitor,Monitor de Profecias,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Firenze,True,Production,3.0.0,92
+DP024,TrackHechizo,Registro de Encantamientos,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,False,Production,3.0.0,100
+DP025,HerboApp,Guardian de la Historia,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,False,Production,3.0.0,100
+DP026,CriaturaWatch,Aplicacion de Herbologia,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,True,Production,1.0.4,100
+DP027,Transfigurator,Monitor de Profecias,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Deprecated,2.4.2,58
+DP028,ProfeciaMonitor,Aplicacion de Transfiguraciones,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,True,Production,2.0.0,97
+DP029,PocionSafe,Sistema de Seguimiento de Hechizos,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Rubeus Hagrid,False,Production,1.0.0,100
+DP030,ProfeciaMonitor,Guardian de la Historia,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Production,1.0.0,88
+DP031,Transfigurator,Registro de Encantamientos,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,False,Deprecated,2.8.4,17
+DP032,ProfeciaMonitor,Aplicacion de Herbologia,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,True,Deprecated,0.4.7,52
+DP033,CharmLog,Mapa Estelar,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,False,Deprecated,1.2.5,52
+DP034,HerboApp,Monitor de Profecias,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Horace Slughorn,True,Production,1.0.8,63
+DP035,TrackHechizo,Registro de Encantamientos,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Production,1.8.5,100
+DP036,TrackHechizo,Guardian de la Historia,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Firenze,True,Production,2.2.6,100
+DP037,PocionSafe,Vigilante de Criaturas Magicas,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,False,Production,3.0.0,48
+DP038,CriaturaWatch,Guardian de la Historia,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Production,3.0.0,80
+DP039,Transfigurator,Sistema de Seguimiento de Hechizos,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Production,1.9.9,100
+DP040,CriaturaWatch,Vigilante de Criaturas Magicas,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,True,Production,2.0.0,100
+DP041,ProfeciaMonitor,Mapa Estelar,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Production,1.0.0,48
+DP042,ProfeciaMonitor,Aplicacion de Herbologia,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,False,Production,3.0.0,82
+DP043,Transfigurator,Vigilante de Criaturas Magicas,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,True,Deprecated,0.8.0,50
+DP044,CharmLog,Vigilante de Criaturas Magicas,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,True,Production,1.0.0,100
+DP045,HistoriKeeper,Mapa Estelar,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,True,Deprecated,0.2.1,39
+DP046,CriaturaWatch,Mapa Estelar,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,False,Production,1.0.0,100
+DP047,TrackHechizo,Monitor de Profecias,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Deprecated,2.8.3,100
+DP048,PocionSafe,Mapa Estelar,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,True,Production,2.0.0,96
+DP049,HistoriKeeper,Aplicacion de Transfiguraciones,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Deprecated,2.9.8,51
+DP050,Transfigurator,Sistema de Seguimiento de Hechizos,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Severus Snape,True,Production,1.0.0,97
+DP051,TrackHechizo,Registro de Encantamientos,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,True,Production,2.0.0,40
+DP052,Transfigurator,Monitor de Pociones,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,True,Production,2.0.0,74
+DP053,TrackHechizo,Guardian de la Historia,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,False,Deprecated,2.1.0,71
+DP054,TrackHechizo,Aplicacion de Herbologia,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,False,Production,2.9.5,68
+DP055,CriaturaWatch,Registro de Encantamientos,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Production,3.0.0,78
+DP056,Transfigurator,Guardian de la Historia,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Rubeus Hagrid,True,Production,1.5.3,90
+DP057,HistoriKeeper,Monitor de Profecias,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,False,Deprecated,1.0.8,38
+DP058,PocionSafe,Monitor de Pociones,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,False,Production,3.0.0,80
+DP059,HistoriKeeper,Registro de Encantamientos,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Firenze,True,Production,1.2.7,92
+DP060,HistoriKeeper,Registro de Encantamientos,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Horace Slughorn,True,Production,2.9.0,87
+DP061,HistoriKeeper,Mapa Estelar,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Deprecated,0.5.9,100
+DP062,ProfeciaMonitor,Aplicacion de Herbologia,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Deprecated,0.6.1,24
+DP063,TrackHechizo,Registro de Encantamientos,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,True,Production,2.2.4,100
+DP064,HerboApp,Sistema de Seguimiento de Hechizos,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Alastor Moody,False,Deprecated,1.2.5,41
+DP065,EstelarMap,Aplicacion de Herbologia,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Wilhelmina Grubbly-Plank,False,Deprecated,1.5.8,55
+DP066,CharmLog,Registro de Encantamientos,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,False,Production,0.3.8,100
+DP067,CriaturaWatch,Vigilante de Criaturas Magicas,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Rubeus Hagrid,True,Production,3.0.0,62
+DP068,PocionSafe,Guardian de la Historia,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Production,0.6.4,80
+DP069,PocionSafe,Monitor de Profecias,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Production,3.0.0,54
+DP070,TrackHechizo,Registro de Encantamientos,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,True,Production,2.0.0,100
+DP071,HistoriKeeper,Guardian de la Historia,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Severus Snape,True,Production,3.0.0,68
+DP072,CriaturaWatch,Aplicacion de Transfiguraciones,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,False,Deprecated,2.0.0,33
+DP073,TrackHechizo,Monitor de Profecias,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Firenze,True,Production,1.0.0,74
+DP074,CharmLog,Monitor de Profecias,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Severus Snape,True,Production,3.0.0,100
+DP075,HistoriKeeper,Aplicacion de Herbologia,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Firenze,False,Production,2.3.3,100
+DP076,EstelarMap,Sistema de Seguimiento de Hechizos,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Deprecated,2.3.7,42
+DP077,TrackHechizo,Mapa Estelar,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Production,2.0.0,100
+DP078,ProfeciaMonitor,Sistema de Seguimiento de Hechizos,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Wilhelmina Grubbly-Plank,False,Deprecated,2.5.2,37
+DP079,Transfigurator,Guardian de la Historia,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Remus Lupin,True,Production,2.0.0,97
+DP080,PocionSafe,Guardian de la Historia,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Alastor Moody,True,Production,1.0.0,100
+DP081,HerboApp,Aplicacion de Herbologia,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,True,Production,1.0.0,90
+DP082,HerboApp,Registro de Encantamientos,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,False,Production,3.0.0,100
+DP083,ProfeciaMonitor,Registro de Encantamientos,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Production,1.0.0,55
+DP084,Transfigurator,Monitor de Profecias,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Production,1.0.0,100
+DP085,CharmLog,Monitor de Pociones,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Remus Lupin,True,Production,1.0.0,70
+DP086,HerboApp,Guardian de la Historia,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,False,Deprecated,0.6.5,100
+DP087,PocionSafe,Vigilante de Criaturas Magicas,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Severus Snape,True,Production,1.0.0,100
+DP088,UmbridgeControl,Sistema de Control Disciplinario,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Dolores Umbridge,False,Planned,0.2.0,12
+DP089,DecreeMonitor,Monitor de Decretos Ministeriales,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Dolores Umbridge,False,Deprecated,1.0.1,20
+DP090,OraculumDB,Sistema de Observación Estelar,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,True,Production,1.0.0,38
+DP091,FelixFelicis,Motor de Predicción de Pociones,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Horace Slughorn,False,Production,1.0.0,40
+DP092,MandrakeCure,Sistema de Clasificación de Plantas,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,True,Production,1.0.0,42
+DP093,LumosScan,Escáner de Encantamientos Activos,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Production,1.0.0,60
+DP094,AnimagiTrack,Registro de Animagos y Transformaciones,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Production,1.0.0,30
+DP095,BowtruckleDB,Base de Datos de Criaturas Mágicas,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Rubeus Hagrid,False,Production,1.0.0,38
+DP096,GoblinChronos,Archivo de Guerras de Goblins,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,False,Planned,0.1.0,10
+DP097,CrystalBallBI,Plataforma de Visiones del Futuro,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,False,Planned,0.2.0,12
+DP098,PatronusShield,Sistema de Defensa Predictiva,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Remus Lupin,True,Production,1.0.0,58
+DP099,SeverusAnalytics,Análisis Comparativo Inter-Departamental,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,False,Production,1.0.0,22
+DP100,NevPlantTrack,Sistema de Trazabilidad de Plantas Raras,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Neville Longbottom,True,Planned,0.2.0,15
+DP101,GryffPlantDB,Base de Datos de Plantas Curativas,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Neville Longbottom,True,Production,1.0.0,38
+DP102,OrdineApp,Aplicación de Orden y Control,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Dolores Umbridge,False,Production,1.0.0,18
+DP103,CosmicPotion,Análisis de Eventos Astrológicos,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Severus Snape,False,Planned,0.2.0,14
+DP104,CharmMetrics,Métricas de Rendimiento de Encantamientos,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Planned,0.2.0,18
+DP105,InkDivine,Tinta de Predicciones Automatizada,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Sybill Trelawney,False,Planned,0.1.0,8
+DP106,ThestralLog,Registro de Avistamientos de Thestrals,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Wilhelmina Grubbly-Plank,True,Production,1.0.0,32
+DP107,AmortentiaBI,Cuadro de Mando de Pociones Especiales,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Horace Slughorn,True,Production,1.0.0,58
+DP108,FoundersVault,Bóveda Digital de los Fundadores,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,True,Planned,0.2.0,18
+DP109,MetamorphTrack,Sistema de Metamorfosis Controlada,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,True,Production,1.0.0,40
+DP110,ConstantVigilance,Sistema de Alertas de Amenazas Oscuras,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Alastor Moody,True,Planned,0.2.0,22
+DP111,RootAnalytics,Análisis de Ecosistemas de Invernadero,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Pomona Sprout,True,Production,1.0.0,45
+DP112,NargleFinder,Detector de Nargles y Anomalías Mágicas,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Luna Lovegood,True,Planned,0.2.0,18
+DP113,QuibblerFeed,Servicio de Alertas No Convencionales,"Data Product relacionado con adivinacion, utilizado en Hogwarts.",Adivinacion,Luna Lovegood,False,Development,0.1.0,4
+DP114,SpellRegistry,Registro Central de Encantamientos,"Data Product relacionado con encantamientos, utilizado en Hogwarts.",Encantamientos,Filius Flitwick,True,Development,0.1.0,7
+DP115,AntidoteAlert,Sistema de Alertas de Antídotos,"Data Product relacionado con pociones, utilizado en Hogwarts.",Pociones,Severus Snape,True,Planned,0.3.0,28
+DP116,PhoenixTrack,Seguimiento de Especies Mágicas en Peligro,"Data Product relacionado con cuidado de criaturas magicas, utilizado en Hogwarts.",Cuidado de Criaturas Magicas,Rubeus Hagrid,True,Planned,0.2.0,20
+DP117,CometPredict,Predictor de Eventos Celestes,"Data Product relacionado con astronomia, utilizado en Hogwarts.",Astronomia,Aurora Sinistra,True,Development,0.1.0,6
+DP118,PolyJuiceDB,Base de Datos de Transformaciones,"Data Product relacionado con transformaciones, utilizado en Hogwarts.",Transformaciones,Minerva McGonagall,False,Development,0.0.5,3
+DP119,HogwartsChronicle,Crónica Multimedia de Hogwarts,"Data Product relacionado con historia de la magia, utilizado en Hogwarts.",Historia de la Magia,Cuthbert Binns,True,Planned,0.2.0,24
+DP120,WeedWatcher,Monitor de Plagas en Invernaderos,"Data Product relacionado con herbologia, utilizado en Hogwarts.",Herbologia,Neville Longbottom,True,Development,0.1.0,5
+DP121,DarkMatterDP,Detector de Magia Oscura Residual,"Data Product relacionado con defensa contra las artes oscuras, utilizado en Hogwarts.",Defensa Contra las Artes Oscuras,Remus Lupin,True,Development,0.1.0,8
